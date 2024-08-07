@@ -1,0 +1,229 @@
+[33mcommit 5a13cf4d2ddccca8c1a41d114ce325242e4be8e6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/090Raphael[m[33m)[m
+Author: 090Raphael <couto_@outlook.com>
+Date:   Tue Aug 6 17:54:24 2024 -0300
+
+    feat: add 090Raphael profile
+
+[33mcommit c84c8b1a61484f2a14af5b630eb6d694771b8ed7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: c475fa912 8ec9ae6f5
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 20:00:10 2024 +0000
+
+    Merge pull request #43396 from Trasiblo/main
+
+[33mcommit 8ec9ae6f5235df64c1383c366c50a77ea77752d6[m
+Author: Trasiblo <94070782+Trasiblo@users.noreply.github.com>
+Date:   Tue Aug 6 16:59:00 2024 -0300
+
+    feat: add Trasiblo profile
+
+[33mcommit c475fa9125908300a05322c77ea9c431aaf51ca1[m
+Merge: 1023b5091 2f1674b44
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 19:25:08 2024 +0000
+
+    Merge pull request #43392 from h2bits/feat/community/h2bits
+
+[33mcommit 1023b5091342de8ef6956e94bbe49a955c543ba4[m
+Merge: 4c01bee41 6199959eb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 19:23:53 2024 +0000
+
+    Merge pull request #43390 from wemmelotec/feat/community/wemmelotec
+
+[33mcommit 2f1674b44c91f80ab7e7cd542d918bf9633ff312[m
+Author: Rodrigo <h2bits@gmail.com>
+Date:   Tue Aug 6 16:18:19 2024 -0300
+
+    feat: add h2bits profile
+
+[33mcommit 6199959ebc1536bb81757cd60d038b351f8f24bf[m
+Author: Wellington <tonmelo@hotmail.com>
+Date:   Tue Aug 6 16:16:18 2024 -0300
+
+    feat: add wemmelotec profile
+
+[33mcommit 4c01bee41100331aa83688c75ea0509048e7ce85[m
+Merge: dd72c4739 0fa3b12da
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 19:04:52 2024 +0000
+
+    Merge pull request #43387 from andrei-schievelbein/feat/community/andrei-schievelbein
+
+[33mcommit 0fa3b12dab4e1c4188367f0dd0db37ba3d1e871e[m
+Author: Andrei Schievelvein <andreicel@gmail.com>
+Date:   Tue Aug 6 15:57:07 2024 -0300
+
+    feat: add andrei-schievelbein profile
+
+[33mcommit dd72c4739a3a750100ec85dfe79f5d1f0fa1c819[m
+Merge: a7fed87ba fa2b92178
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:51:52 2024 +0000
+
+    Merge pull request #43385 from antonioferreirasales/feat/community/antonioferreirasales
+
+[33mcommit fa2b9217819d64e205ea9f08a9e25571aaa89f0b[m
+Author: Antônio Sales <antoniosales1003@gmail.com>
+Date:   Tue Aug 6 15:49:42 2024 -0300
+
+    feat: add antonioferreirasales profile
+
+[33mcommit a7fed87ba10f7073d63468b6c0e0763b32f26936[m
+Merge: 5fb1b16b1 569ded4c4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:40:17 2024 +0000
+
+    Merge pull request #43384 from luc8x/feat/community/luc8x
+
+[33mcommit 5fb1b16b11fe28376ed0754d53d810657559993a[m
+Merge: 6e441f0ea 65ce13199
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:39:08 2024 +0000
+
+    Merge pull request #43383 from erickM0/feat/community/erickM0
+
+[33mcommit 569ded4c47437e746a5567dfc4a732206d6d6238[m
+Author: Luc8x <llucaasvc4@gmail.com>
+Date:   Tue Aug 6 15:37:35 2024 -0300
+
+    feat: add luc8x profile
+
+[33mcommit 65ce13199393029a3b0130e1709af1d8dcc24399[m
+Author: Erick Oliveira <145382051+erickM0@users.noreply.github.com>
+Date:   Tue Aug 6 15:31:21 2024 -0300
+
+    feat: update erickM0 profile
+
+[33mcommit 6e441f0eae8f50ce996bb5f5f3b50d2bcce0878f[m
+Merge: 18dad9082 e29e0eccb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:26:41 2024 +0000
+
+    Merge pull request #43379 from deboradrf/feat/community/deboradrf
+
+[33mcommit 18dad9082eff9418a3ebf76b73f303bc6be013a3[m
+Merge: 500ed4102 548d549b0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:26:23 2024 +0000
+
+    Merge pull request #43378 from Kiamisa/feat/community/Kiamisa
+
+[33mcommit 548d549b0f0469f21adab9b14472887f2604ee11[m
+Author: Kiamisa <silas.particular05@gmail.com>
+Date:   Tue Aug 6 15:21:30 2024 -0300
+
+    feat: add Kiamisa profile
+
+[33mcommit e29e0eccb6dcf24c4ed1245be55c3c94848d6fd8[m
+Author: debora <deborapfonseca@yahoo.com>
+Date:   Tue Aug 6 15:21:01 2024 -0300
+
+    feat: add deboradrf profile
+
+[33mcommit 500ed410238c645c99ee5355017ca456e635539f[m
+Merge: 9f4771e71 771ec934c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:20:27 2024 +0000
+
+    Merge pull request #43377 from DavidsonCler/feat/community/DavidsonCler
+
+[33mcommit 9f4771e71f8fcc81346292bf15e943361c918307[m
+Merge: 31c8be696 5de6bd56b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:18:55 2024 +0000
+
+    Merge pull request #43375 from KeyllaGomes/feat/community/KeyllaGomes
+
+[33mcommit 771ec934c2038cdb63734ee25e3d0b38db0081a4[m
+Author: Davidson Cler <davidsoncler@hotmail.com>
+Date:   Tue Aug 6 15:13:44 2024 -0300
+
+    feat: add DavidsonCler profile
+
+[33mcommit 5de6bd56beaf84191a0b8716007ef6161dfec508[m
+Author: Keylla Gomes <104871639+KeyllaGomes@users.noreply.github.com>
+Date:   Tue Aug 6 15:07:44 2024 -0300
+
+    feat: add KeyllaGomes profile
+
+[33mcommit 31c8be696623126a21eca1031c9564c98696fa67[m
+Merge: 1c1e0e35a cfd855c60
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 18:07:43 2024 +0000
+
+    Merge pull request #43372 from Hugocpereira/feat/community/Hugocpereira
+
+[33mcommit cfd855c60d9fcf886b956b5d11f16826023571bf[m
+Author: Hugocpereira <hugocp100@hotmail.com>
+Date:   Tue Aug 6 14:59:58 2024 -0300
+
+    feat: add Hugocpereira profile
+
+[33mcommit 6d16df7f04020045fd9c635272a57b3de764bafc[m
+Author: erickM0 <145382051+erickM0@users.noreply.github.com>
+Date:   Tue Aug 6 14:59:50 2024 -0300
+
+    feat: update erickM0.md file
+
+[33mcommit 1c1e0e35a0e9b088b41169340ab3ef85180c2951[m
+Merge: e1e822c2d 6c83a2805
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 17:55:51 2024 +0000
+
+    Merge pull request #43369 from mateus-fraga/feat/community/mateus-fraga
+
+[33mcommit e1e822c2dd7ce2d0e27d2451f4ffd5371c927cd4[m
+Merge: c2234d7d4 25778da66
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 17:51:17 2024 +0000
+
+    Merge pull request #43368 from raryett/feat/community/raryett
+
+[33mcommit 25778da66d97546d32aacb5f52362340645c7460[m
+Author: raryett <raryett@outlook.com>
+Date:   Tue Aug 6 14:47:53 2024 -0300
+
+    feat: add raryett profile
+
+[33mcommit 5718c208dfea7d942c4be8a446176101cbe1403d[m
+Author: erickM0 <145382051+erickM0@users.noreply.github.com>
+Date:   Tue Aug 6 14:39:13 2024 -0300
+
+    feat: update erickM0.md file
+
+[33mcommit c2234d7d479bf26d06fd642e20018d3d3dfacd85[m
+Merge: d4adb2b49 77b128506
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 17:39:33 2024 +0000
+
+    Merge pull request #43367 from vLcGomes/feat/community/vLcGomes
+
+[33mcommit 6c83a28059c210825a90b959608c8df7fd9c754b[m
+Author: mateus_fraga <mateusfragati@gmail.com>
+Date:   Tue Aug 6 14:37:45 2024 -0300
+
+    feat: add mateus-fraga profile
+
+[33mcommit 77b128506c32ebdee08827ad26ba14305a7e8835[m
+Author: Vinicius Gomes <165200823+vLcGomes@users.noreply.github.com>
+Date:   Tue Aug 6 14:36:33 2024 -0300
+
+    feat: add vLcGomes profile
+
+[33mcommit d4adb2b49321cd0d6231ef0662ac1745d2151e71[m
+Merge: ff736f089 fc1786c74
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 6 17:34:37 2024 +0000
+
+    Merge pull request #43366 from Julianooutlook/patch-8
+
+[33mcommit fc1786c7451d19ddcb73dd281cfbb748a2e7c81d[m
+Author: Juliano <134165742+Julianooutlook@users.noreply.github.com>
+Date:   Tue Aug 6 14:33:57 2024 -0300
+
+    Update Julianooutlook.md
+
+[33mcommit ff736f0898ece69dfb9b352adaf1228eef5a91d2[m
+Merge: afa10aa5e f297f87f6
+Author: github-actions[bot] <41898282+github-actions[bot]@user
